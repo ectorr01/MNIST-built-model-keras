@@ -105,11 +105,8 @@ tensorboard --logdir=./deep_learning/classificatore_cifre/logs
 
 ## 🖼️ Example Output
 
-![Training and Validation Plots](./training_plots.png)  
+![Training and Validation Plots](./Figure_1.png)  
 
-
-![Model Architecture](./model.png)  
-*(Visual representation of the neural network structure)*
 
 ---
 
